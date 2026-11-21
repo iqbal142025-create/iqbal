@@ -9,7 +9,7 @@ Generator video TikTok vertikal 9:16 dari naskah JSON. Proyek ini membuat latar 
 - Narasi bahasa Indonesia dengan Edge TTS (opsional).
 - Subtitle .srt dan metadata/caption untuk unggahan.
 
-## Persiapan
+## Menjalankan aplikasi antarmuka\n\nJalankan aplikasi lokal dengan:\n\n```bash\nstreamlit run app.py\n```\n\nBuka alamat lokal yang ditampilkan Streamlit di browser. Masukkan atau ubah naskah JSON, lalu klik **Buat video**. FFmpeg tetap harus terpasang dan dapat dipanggil melalui PATH.\n\n## Persiapan
 1. Install Python 3.10+ dan FFmpeg.
 2. Clone repository:
    `git clone https://github.com/iqbal142025-create/iqbal.git`
